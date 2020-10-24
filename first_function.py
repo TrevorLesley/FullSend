@@ -6,6 +6,6 @@ def function():
 
     shuffle = random.choice(bangerz) 
 
-    print("This current banger is;" shuffle)
+    print(f"This current banger is {shuffle}")
 
 function()
