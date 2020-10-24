@@ -1,0 +1,20 @@
+list = []
+dictionary = {"key":"value"}
+tuple = (0,0)
+
+string = "a word"
+integer = 6
+float = 9.87
+
+#builtinfunctions
+datetime
+math
+random
+randint
+requests
+logging
+sys
+
+####
+functions
+classes
