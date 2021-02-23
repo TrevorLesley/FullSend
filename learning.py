@@ -235,3 +235,20 @@ Hello, World
 Hello, World
 >>> 
 
+# http://tinyurl.com/hut6nwu
+
+# This is a comment
+print("This is for learning comments.")
+
+============= RESTART: /Users/newuser/Documents/learningcomments.py ============
+This is for learning comments.
+>>> 
+>>> 2+2
+4
+>>> 2-2
+0
+>>> 4/2
+2.0
+>>> 2*2
+4
+>>> 
