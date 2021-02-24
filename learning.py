@@ -252,3 +252,81 @@ This is for learning comments.
 >>> 2*2
 4
 >>> 
+
+y = 100
+print(y)
+
+============ RESTART: /Users/newuser/Documents/learningvariables.py ============
+100
+>>> 
+
+y = 100
+print(y)
+
+
+y = 200
+print(y)
+
+======== RESTART: /Users/newuser/Documents/changingvaluesofvariables.py ========
+100
+200
+>>> 
+
+x = 10
+y = 10
+z = x + y
+print(z)
+a = x - y
+print(a)
+
+============== RESTART: /Users/newuser/Documents/mathematicsmk1.py =============
+20
+0
+>>> x = 10
+x = x - 1
+print(x)
+
+=============== RESTART: /Users/newuser/Documents/decrementing.py ==============
+9
+>>> 
+
+x = 10
+x = x + 1
+print(x)
+
+=============== RESTART: /Users/newuser/Documents/incrementing.py ==============
+11
+>>> 
+
+x = 10
+x += 1
+print(x)
+
+
+y = 10
+y -= 1
+print(y)
+
+============ RESTART: /Users/newuser/Documents/shorterupsanddowns.py ===========
+11
+9
+>>> 
+
+hi = "Howdy!"
+print(hi)
+
+=========== RESTART: /Users/newuser/Documents/confusingbutitworks.py ===========
+Howdy!
+>>> 
+
+a_floater = 10.80
+print(a_floater)
+
+
+we_boolin = True
+print(we_boolin)
+
+======== RESTART: /Users/newuser/Documents/moreconfusionlessconfusing.py =======
+10.8
+True
+>>> 
